@@ -28,9 +28,3 @@ jobs:
 
           cmd /c Downloads.bat
 
-
-      - name: Connect to LiteManager
-
-      - name: Time Counter
-
-        run: cmd /c loop.bat
